@@ -925,3 +925,11 @@ mman.kr, 32102, reseller
 flat-ads.com, 2196601, direct
 contextweb.com, 562726, reseller, 89ff185a4c4e857c
 sharethrough.com, c5wxsay4, reseller, d53b998a7bd4ecd2
+criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
+e-planning.net, 4aee56d1adc59f29, DIRECT, c1ba615865ed87b2
+onetag.com, 5d0d72448d8bfb0, DIRECT
+freewheel.tv, 1604590, RESELLER
+freewheel.tv, 1604595, RESELLER
+vidoomy.com, 6384344, DIRECT
+adform.com, 2742, RESELLER
