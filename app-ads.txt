@@ -128,6 +128,7 @@ aniview.com, 603f65a2e291680ef30af9c7, reseller, 78b21b97965ec3f8
 openx.com, 539129292, reseller, 6a698e2ec38604c6
 xad.com, 240, reseller, 81cbf0a75a5e0e9a
 smartyads.com, 100241, direct, fd2bde0ff2e62c5d
+yahoo.com, 49648, reseller
 pubnative.net, 1006576, reseller, d641df8625486a7b
 freewheel.tv, 1205455, reseller
 improvedigital.com, 1725, reseller
@@ -162,10 +163,10 @@ loopme.com, 11515, reseller, 6c8d5f95897a5a3b
 iion.io, 10029, direct, 013a29748465dc57
 video.unrulymedia.com, 6111915185540403805, direct
 33across.com, 0013300001jlr99aaa, reseller, bbea06d9c4d2853c
-pubmatic.com, 161771, reseller, 5d62403b186f2ace
 synacor.com, 82171, reseller, e108f11b2cdf7d5b
 playdigo.com, 1964, reseller
 video.unrulymedia.com, 124775993, reseller
+pubmatic.com, 158355, reseller, 5d62403b186f2ace
 growintech.co, 101696 , reseller
 pubmatic.com, 158154, reseller, 5d62403b186f2ace
 xandr.com, 13799, reseller
@@ -173,29 +174,42 @@ e-planning.net,363e54c31fcf223d,reseller,c1ba615865ed87b2
 appads.in, 107606, reseller
 pubmatic.com, 164593, reseller, 5d62403b186f2ace
 themediagrid.com, hifrls, direct, 35d5010d7789b49d
+pubmatic.com, 161771, reseller, 5d62403b186f2ace
+pubmatic.com, 158849, reseller, 5d62403b186f2ace
 lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, reseller, 524ecb396915caaf
 appnexus.com, 8233, reseller
 appnexus.com, 12039, reseller, f5ab79cb980f11d1
 pubmatic.com, 137711, reseller, 5d62403b186f2ace
 rubiconproject.com, 19744, reseller, 0bfd66d529a55807
 rhythmone.com, 676914333,reseller, a670c89d4a324e47
+carbonatix.com, 176264355, reseller
 freewheel.tv, 1183903, reseller
 onetag.com, 7ba1175dffb3110, reseller
+smartadserver.com, 4625, reseller, 060d053dcf45cbf3
 rubiconproject.com, 11006, reseller, 0bfd66d529a55807
 triplelift.com, 12158, reseller, 6c33edb13117fd86
 rubiconproject.com, 20086, reseller, 0bfd66d529a55807
 inmobi.com, 316c3553aba64585b0667cba515515a9, reseller, 83e75a7ae333ca9d
+openx.com, 559680764, reseller, 6a698e2ec38604c6
+gumgum.com,15747,reseller,ffdef49475d318a9
+appnexus.com, 3153, reseller, f5ab79cb980f11d1
 app-stock.com , 458952, reseller
 pubmatic.com, 160920, direct, 5d62403b186f2ace
 advlion.com, 3108, reseller
 freewheel.tv, 1585681, reseller
 pubmatic.com, 161853, reseller, 5d62403b186f2ace
+rtbhouse.com, eqt3md0dmnfukxfzqfm0, direct
+pubmatic.com,120391,reseller,5d62403b186f2ace
+smartadserver.com, 4998, reseller, 060d053dcf45cbf3
+rubiconproject.com, 26250, reseller, 0bfd66d529a55807
 freewheel.tv, 1138513, reseller
-adform.com, 2904, reseller
+yieldmo.com, 3590879766707642794, reseller
 admanmedia.com, 594, reseller
 rubiconproject.com, 17328, reseller, 0bfd66d529a55807
 triplelift.com, 12908, reseller, 6c33edb13117fd86
 criteo.com, b-072394, direct, 9fac4a4a87c2a44f
+pubmatic.com, 161527, reseller, 5d62403b186f2ace
+adform.com, 2904, reseller
 onetag.com, 75a1922f904cc20, reseller
 pubmatic.com, 156538, reseller, 5d62403b186f2ace
 appnexus.com, 9382, reseller, f5ab79cb980f11d1
@@ -206,6 +220,8 @@ themediagrid.com, rvqdti, direct, 35d5010d7789b49d
 adcolony.com, 197af3936679d34e, reseller, 1ad675c9de6b5176
 freewheel.tv, 1307119, reseller
 video.unrulymedia.com, 1175643313, direct
+crystall.io, 264892, direct
+rtbhouse.com, 36401e736811e8034581, direct
 xad.com, 1190, reseller, 81cbf0a75a5e0e9a
 pubmatic.com, 164778, reseller, 5d62403b186f2ace
 openx.com, 559911747, reseller, 6a698e2ec38604c6
@@ -219,7 +235,6 @@ pubmatic.com, 162299, reseller, 5d62403b186f2ace
 datawrkz.com, 2362, direct
 admedia.com, 1611, reseller
 lijit.com, 437646, reseller, fafdf38b16bf6b2b #sovrn
-aps.amazon.com, 5044, reseller
 themediagrid.com, rix2m5, reseller, 35d5010d7789b49d
 smartadserver.com, 4744, reseller, 060d053dcf45cbf3
 pubmatic.com, 160145, reseller, 5d62403b186f2ace
@@ -227,13 +242,17 @@ smaato.com, 1100044900, reseller, 07bcf65f187117b4
 improvedigital.com, 1623, reseller
 video.unrulymedia.com, 6111915185540403805, reseller
 adform.com, 2845,reseller, 9f5210a2f0999e32
+lijit.com, 502284, reseller, fafdf38b16bf6b2b
+aps.amazon.com, 5044, reseller
 smaato.com, 1100056212, reseller, 07bcf65f187117b4
 synacor.com, 82302, reseller, e108f11b2cdf7d5b
 pubmatic.com, 155975, reseller, 5d62403b186f2ace
 emxdgt.com, 273, reseller, 1e1d41537f7cad7f
 krushmedia.com, ajxf6r470a9m6catvk, reseller
+appnexus.com, 9393, reseller, f5ab79cb980f11d1
 mediafuse.com, 720, reseller
 pubmatic.com, 157153, reseller, 5d62403b186f2ace
+lijit.com, 260380, reseller, fafdf38b16bf6b2b
 indexexchange.com, 195924, reseller, 50b1c356f2c5c8fc
 adwmg.com, 100765, reseller, c9688a22012618e7
 rubiconproject.com, 17184, reseller, 0bfd66d529a55807
@@ -244,6 +263,7 @@ lgads.tv, 792918, direct
 decenterads.com, 300111, direct
 openx.com, 537125356, reseller, 6a698e2ec38604c6
 rubiconprojectcom, 25872, reseller, 0bfd66d529a55807
+152media.info, 152m939, reseller
 exmarketplace.com, 4723, reseller, 5b021513f53460f2
 smartadserver.com, 4343, reseller
 video.unrulymedia.com, 374933895, reseller
@@ -251,11 +271,13 @@ smartyads.com, 100241, reseller, fd2bde0ff2e62c5d
 connectad.io, 333, reseller, 85ac85a30c93b3e5
 video.unrulymedia.com, 2169000724, reseller
 appnexus.com, 13099, reseller, f5ab79cb980f11d1
+contextweb.com ,562818, reseller,89ff185a4c4e857c
 advertising.com, 23089, reseller
 relict.media, 22655625843, direct
 freewheel.tv, 848065, reseller
 openx.com, 544096208, reseller, 6a698e2ec38604c6
 onetag.com, 7c3f893b7164340, reseller
+themediagrid.com, bih5u6, reseller, 35d5010d7789b49d
 openx.com, 540861995, reseller, 6a698e2ec38604c6
 lunamedia.io, 8ad5d16c-7b47-4234-bc19-c3f2c2e21c8e, direct, 524ecb396915caaf
 adiiix.com, 4bcaa9fe, direct
@@ -276,10 +298,12 @@ mobilefuse.com, 240, reseller, 71e88b065d69c021
 advertising.com, 28605, reseller
 lijit.com, 400766, reseller, fafdf38b16bf6b2b
 iion.io, 10162, reseller
+appnexus.com, 11924, reseller, f5ab79cb980f11d1
 google.com, pub-5717092533913515, reseller, f08c47fec0942fa0
 indexexchange.com, 184110, reseller, 50b1c356f2c5c8fc
 pubmatic.com, 158810, reseller, 5d62403b186f2ace
 indexexchange.com, 183875, reseller, 50b1c356f2c5c8fc
+rubiconproject.com, 25102, reseller, 0bfd66d529a55807
 appnexus.com, 1752, reseller, f5ab79cb980f11d1
 media.net, 8cug45it1, reseller
 singularads, 556985, direct
@@ -295,6 +319,7 @@ smartadserver.com, 4012, reseller
 pubmatic.com, 156517, reseller, 5d62403b186f2ace
 loopme.com, 5679, reseller, 6c8d5f95897a5a3b
 flat-ads.com,3195400,reseller
+eskimi.com, 2020000676, direct
 contextweb.com, 562770, reseller, 89ff185a4c4e857c
 olaex.biz, 100039, reseller
 smartadserver.com, 3564, reseller
@@ -306,8 +331,10 @@ lijit.com, 420355, reseller, fafdf38b16bf6b2b
 smartadserver.com, 2491, reseller
 contextweb.com, 563111, reseller, 89ff185a4c4e857c
 improvedigital.com, 2110, reseller
+vidoomy.com, 5975555, reseller
 aceex.io, 1746, reseller, b1cf3c874d5c6682
 zeta.com, 998, reseller
+rtbhouse.com, kicwdrpi0gcwx2lqjcyn, direct
 ucfunnel.com, par-be7e29b3b48de66bc7ddda24e6267e29, reseller
 appnexus.com,16220,reseller,f5ab79cb980f11d1
 smartadserver.com, 2640, reseller
@@ -319,13 +346,12 @@ decenterads.com, 300419, direct
 contextweb.com, 563115, reseller, 89ff185a4c4e857c
 rubiconproject.com, 17250, reseller, 0bfd66d529a55807
 video.unrulymedia.com, 8167205979129043832, direct
-rubiconproject.com, 13510, direct
 media.net, 8cun37dcc, reseller
 openx.com, 540861995, direct, 6a698e2ec38604c6
 triplelift.com, 9979, reseller, 6c33edb13117fd86
-appnexus.com, 12501, reseller
 rubiconproject.com, 21998, reseller, 0bfd66d529a55807
 inmobi.com, e05e4461515245fc8ca91510ed240025, reseller, 83e75a7ae333ca9d
+adform.com, 2968, direct
 screencore.io, 214, direct
 appnexus.com, 8233, direct
 pubmatic.com, 81564, reseller, 5d62403b186f2ace
@@ -334,12 +360,17 @@ freewheel.tv, 1604697, reseller
 pubmatic.com, 156962, reseller, 5d62403b186f2ace
 thunder-monetize.com, 1252316774, reseller
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, reseller, 4ad745ead2958bf7
+rubiconproject.com, 13510, direct
+amxrtb.com, 105199787, direct
+appnexus.com, 11786, reseller
+appnexus.com, 12501, reseller
 sharethrough.com, rqqhk6f4, direct, d53b998a7bd4ecd2
 appnexus.com, 6849, reseller
 verve.com, 15503, reseller, 0c8f5958fc2d6270
 rubiconproject.com, 16114, reseller, 0bfd66d529a55807
 hyperad.tech, 182, reseller
 rubiconproject.com, 18694, reseller, 0bfd66d529a55807
+video.unrulymedia.com, 297618916, reseller
 ogury.com, e91052177a44df900ef9977b4b8314fe, reseller
 onairglobal.com, 4357627, reseller
 video.unrulymedia.com, 3881266972, reseller
@@ -349,8 +380,8 @@ google.com,pub-1325340429823502,reseller,f08c47fec0942fa0
 openx.com, 539088779, reseller, 6a698e2ec38604c6
 ergadx.com, 4014, direct
 rubiconproject.com, 13918, reseller, 0bfd66d529a55807
+opera.com, pub7275292332480, reseller, 55a0c5fd61378de3
 rubiconproject.com, 10061, reseller, 0bfd66d529a55807 #banner
-google.com,pub-8933329999391104,reseller,f08c47fec0942fa0
 appnexus.com,16227, reseller, f5ab79cb980f11d1
 video.unrulymedia.com, 2225335686, direct
 inmobi.com, 74510130b7d34af880f3a38049d5f914, reseller, 83e75a7ae333ca9d
@@ -368,28 +399,33 @@ pubmatic.com, 162458, reseller, 5d62403b186f2ace
 adpushup.com, cfcb90bc3d34a71413ca5d041db539a8, reseller, b0b8ff8485794fdd
 improvedigital.com, 1797, reseller
 filmzie.com, 9894051, direct
+bold-win.com, 165, reseller, 71746737d0bab951
+google.com,pub-8933329999391104,reseller,f08c47fec0942fa0
 indexexchange.com, 182257, reseller
 appnexus.com, 14538, reseller, f5ab79cb980f11d1
 vidoomy.com, 6384344 , reseller
-districtm.io, 101760, reseller, 3fd707be9c4527c3
 rubiconproject.com, 20736, reseller, 0bfd66d529a55807
-se7en.es, 212503, reseller, 064bc410192443d8
 yahoo.com, 59434, reseller, e1a5b5b6e3255540
 google.com, pub-6110672335579159, reseller, f08c47fec0942fa0
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, reseller
 yahoo.com, 59244, reseller
 adform.com, 3062, reseller, 9f5210a2f0999e32
+iqzone.com, iq137, reseller
 smaato.com, 1100054930, reseller, 07bcf65f187117b4
 freewheel.tv, 1603410, reseller
 inmobi.com, cd35c98176d548f69af2684edc6b6888, reseller, 83e75a7ae333ca9d
 axonix.com, 59150, reseller, bc385f2b4a87b721
+monetixads.com, mix-pub-8058079488, direct, uufps1dh5stc6euk
 viralize.com, 6875, reseller
+districtm.io, 101760, reseller, 3fd707be9c4527c3
+vidoomy.com, 3655923 , reseller
+smartadserver.com, 989, reseller, 060d053dcf45cbf3
+se7en.es, 212503, reseller, 064bc410192443d8
 rhythmone.com, 1175643313, direct, a670c89d4a324e47
 smaato.com, 1100052458, direct, 07bcf65f187117b4
 rubiconproject.com, 22884, reseller, 0bfd66d529a55807
 xad.com, 963, reseller, 81cbf0a75a5e0e9a
 opera.com, pub10472284589952, reseller, 55a0c5fd61378de3
-freewheel.tv, 1158193, reseller
 rubiconproject.com,26476,reseller,0bfd66d529a55807
 openx.com, 537149888, reseller, 6a698e2ec38604c6
 showheroes.com,6875,reseller
@@ -401,6 +437,8 @@ freewheel.tv, 1307135, reseller
 rubiconproject.com, 23102, reseller, 0bfd66d529a55807
 spotx.tv, 230037, reseller, 7842df1d2fe2db34
 appnexus.com, 12070, reseller, f5ab79cb980f11d1
+appnexus.com, 11673, reseller, f5ab79cb980f11d1
+freewheel.tv, 1158193, reseller
 appnexus.com, 12637, reseller, f5ab79cb980f11d1
 freewheel.tv, 1500066, reseller
 prequel.tv, 515, reseller
@@ -415,6 +453,8 @@ richaudience.com, 3baffwbauh, direct
 pubnative.net, 1009060, reseller, d641df8625486a7b
 zmaticoo.com, 1155292, reseller
 adform.com, 3141, reseller
+rubiconproject.com, 23844, reseller, 0bfd66d529a55807
+criteo.com, b-064389, reseller, 9fac4a4a87c2a44f
 openx.com, 540421297, reseller, 6a698e2ec38604c6
 appnexus.com, 12061, reseller, f5ab79cb980f11d1
 google.com, pub-9829476400767085, reseller, f08c47fec0942fa0
@@ -425,16 +465,20 @@ video.unrulymedia.com, 251620492, reseller
 adform.com, 1942, direct
 pubmatic.com, 164187, reseller, 5d62403b186f2ace
 media.net, 8cu95vzk4, reseller
+onetag.com, 7a07370227fc000, reseller
 rubiconproject.com, 24752, reseller, 0bfd66d529a55807
+rtbhouse.com, e3qznauvqenvza0c5wwj, reseller
 lkqd.net, 626, reseller, 59c49fa9598a0117
 sovrn.com, 253233, reseller, fafdf38b16bf6b2b
 rubiconproject.com, 25482, reseller, 0bfd66d529a55807
+adtarget.com.tr, 845331, direct
 freewheel.tv, 24377, reseller
 pubmatic.com, 158100, reseller, 5d62403b186f2ace
 yeahmobi.com, 5135284, reseller
 playdigo.com, 1992, reseller
 pubmatic.com, 158651, reseller, 5d62403b186f2ace
 smaato.com, 1100044045, reseller, 07bcf65f187117b4
+adform.com, 2742, reseller
 smartadserver.com, 3172, reseller, 060d053dcf45cbf3
 appnexus.com, 7597, reseller, f5ab79cb980f11d1
 loopme.com, 11594, reseller, 6c8d5f95897a5a3b
@@ -446,9 +490,10 @@ smartadserver.com, 3172, direct, 060d053dcf45cbf3
 pubmatic.com, 154037, reseller,
 yieldmo.com , 2807970144171533194, reseller
 pubmatic.com, 161593, reseller, 5d62403b186f2ace
-orangeclickmedia.com, hgu2t0onqs874x95, reseller
 rubiconproject.com,26184,reseller,0bfd66d529a55807
 boostappi.com, 10013, reseller
+admatic.com.tr, adm-pub-2977111241, reseller, uufps1dh5stc6euk
+adform.com, 2865, reseller
 appnexus.com, 2764, reseller
 thebrave.io, 1234585, reseller, c25b2154543746ac
 rubiconproject.com, 20744, reseller, 0bfd66d529a55807
@@ -456,6 +501,8 @@ contextweb.com, 563238, reseller, 89ff185a4c4e857c
 e-planning.net, 9522026ef023606d,reseller, c1ba615865ed87b2
 adform.com, 1512, reseller
 beachfront.com, 14779, reseller, e2541279e8e2ca4d
+orangeclickmedia.com, hgu2t0onqs874x95, reseller
+xandr.com, 13117, reseller
 lijit.com, 253233, reseller, fafdf38b16bf6b2b
 lnb.ortb.net, 567876, reseller
 rtb-datawrkz.com, 338012441, reseller
@@ -473,10 +520,12 @@ smartadserver.com, 2441, reseller
 smartadserver.com, 3232, reseller
 freewheel.tv, 1585652, reseller
 openx.com, 539625136, reseller
+showheroes.com, 6023, reseller
+appnexus.com, 12290, reseller, f5ab79cb980f11d1
 ergadx.com, 3921, direct
+adyoulike.com, 814ad5a7eb7601cc991ae83a976195b9, reseller
 sharethrough.com, upd4wjlm, reseller, d53b998a7bd4ecd2
 rubiconproject.com, 26144, reseller, 0bfd66d529a55807
-contextweb.com, 563129, reseller, 89ff185a4c4e857c
 pixelpluses.com,200936,reseller
 adwmg.com, 100787 , direct, c9688a22012618e7
 appnexus.com, 14808, direct
@@ -486,11 +535,15 @@ loopme.com, 9718, reseller, 6c8d5f95897a5a3b
 freewheel.tv, 1137745, reseller
 smartadserver.com, 2161, reseller
 pubmatic.com,159382,reseller
+contextweb.com, 563129, reseller, 89ff185a4c4e857c
+rubiconproject.com, 11398, reseller, 0bfd66d529a55807
 smartadserver.com, 4762, reseller, 060d053dcf45cbf3
 hax.ortb.net, 656609, reseller
+loopme.com, 13948, reseller, 6c8d5f95897a5a3b
 freewheel.tv, 1604716, reseller
 sonobi.com, eaec54c63f, reseller, d1a215d9eb5aee9e
 conversantmedia.com, 100664, reseller, 03113cd04947736d
+admatic.com.tr, adm-pub-2870580877, direct, uufps1dh5stc6euk
 bidscube.com, 3000041, direct, 6ecc87a1e0269657
 pubmatic.com, 157529, reseller, 5d62403b186f2ace
 contextweb.com, 562258, reseller, 89ff185a4c4e857c
@@ -501,28 +554,34 @@ inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, reseller, 83e75a7ae333ca9d
 sharethrough.com, vorcbayl, reseller
 video.unrulymedia.com, 346830101, reseller, 29bc7d05d309e1bc
 pubmatic.com, 155986, reseller, 5d62403b186f2ace
+rubiconproject.com, 25100, reseller, 0bfd66d529a55807
 smaato.com, 1100004890, direct, 07bcf65f187117b4
 trustedstack.com, tsirk5qws, direct
 themediagrid.com, a8x5s7, reseller, 35d5010d7789b49d
 sovrn.com, 249425, reseller
 pubmatic.com, 164373, reseller, 5d62403b186f2ace
 contextweb.com, 561998, reseller, 89ff185a4c4e857c
-pubmatic.com, 161058, reseller, 5d62403b186f2ace
 iion.io, 10154, reseller
 lijit.com, 437646-eb, reseller, fafdf38b16bf6b2b #sovrn
 admanmedia.com, 43, reseller
+waardex.com, 164891, direct
 spotxchange.com, 230037, reseller, 7842df1d2fe2db34
 appnexus.com, 11487,reseller, f5ab79cb980f11d1
 openx.com, 538959099, reseller, 6a698e2ec38604c6
 pubmatic.com, 161335, reseller, 5d62403b186f2ace
+smartadserver.com, 3056, reseller, 060d053dcf45cbf3
+pubmatic.com, 161058, reseller, 5d62403b186f2ace
 emxdgt.com, 2002, reseller, 1e1d41537f7cad7f
 indexexchange.com, 184349, reseller, 50b1c356f2c5c8fc
+pubmatic.com, 155968, reseller, 5d62403b186f2ace
 smartadserver.com, 4744-ob, reseller, 060d053dcf45cbf3
 sharethrough.com, 6qlnf8sy, reseller, d53b998a7bd4ecd2
+cazhype.com, efe937780e95574250dabe07151bdc2332800, reseller
 xad.com, 241, reseller, 81cbf0a75a5e0e9a
 rubiconproject.com, 17960, reseller, 0bfd66d529a55807
 tremorhub.com,q0g0k-jkdqq,reseller,1a4e959a1b50034a
 gothamads.com, 1236, reseller, d9c86e5dec870222
+adform.com , 2742 , reseller
 eskimi.com, eas-2020000005, reseller
 lemmatechnologies.com, 1399, direct, 7829010c5bebd1fb
 rubiconproject.com, 23104, reseller, 0bfd66d529a55807
@@ -537,11 +596,11 @@ gingerad.com, 1011, reseller
 pubmatic.com, 159277, reseller,
 advlion.com, 3054, reseller
 appnexus.com, 6933, reseller, f5ab79cb980f11d1
+openx.com, 541163168, reseller, 6a698e2ec38604c6
 sunmedia.tv, 5e0jclyuai, direct
 spotxchange.com, 202100, reseller, 7842df1d2fe2db34
 rubiconproject.com, 26128, direct, 0bfd66d529a55807
 rhythmone.com, 2564526802, reseller, a670c89d4a324e47
-adform.com, 2917, reseller, 9f5210a2f0999e32
 pokkt.com, 7606, reseller, c45702d9311e25fd
 onlinemediasolutions.com, 20498, reseller
 smartadserver.com, 4073, reseller
@@ -551,10 +610,12 @@ loopme.com, 11536, reseller, 6c8d5f95897a5a3b
 spotx.tv, 202100, reseller, 7842df1d2fe2db34
 minutemedia.com, 01gjjdge6zcz, reseller
 quantum-advertising.com, 6232, reseller
+adform.com, 2917, reseller, 9f5210a2f0999e32
+rtbhouse.com, bl90ahdhpnudxorfqhhi, direct
 opera.com, pub7275292332480, reseller,55a0c5fd61378de3
 qortex.ai, 200807, reseller
 lijit.com, 249425, reseller
-freewheel.tv, 1307039, reseller
+appnexus.com,15670,reseller
 adyoulike.com, 63754632e0d24a49dde34df920b86c51, reseller
 lijit.com, 489963, reseller, fafdf38b16bf6b2b
 pubmatic.com, 156494, reseller, 5d62403b186f2ace
@@ -565,6 +626,8 @@ smartadserver.com, 1999-ob, reseller, 060d053dcf45cbf3
 pubmatic.com, 156425, reseller, 5d62403b186f2ace
 smartadserver.com, 4016, reseller
 explorads.com, 191296, reseller
+freewheel.tv, 1307039, reseller
+video.unrulymedia.com, 498216989, reseller
 xandr.com, 7847, reseller, f5ab79cb980f11d1
 adwmg.com, 100819, direct, c9688a22012618e7
 improvedigital.com, 1889, reseller
@@ -573,8 +636,11 @@ yahoo.com, 55771, reseller, e1a5b5b6e3255540
 yieldmo.com, 3091564759074414941, reseller
 improvedigital.com, 1532, reseller
 sharethrough.com, oaw69fon, reseller, d53b998a7bd4ecd2
+netaddiction.it, 1064,direct
 smartyads.com, 478, reseller, fd2bde0ff2e62c5d
-advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, reseller, 60d26397ec060f98
+pubmatic.com, 162270, reseller, 5d62403b186f2ace
+onetag.com, 8c90176af2e65c8, reseller
+indexexchange.com, 191503, reseller, 50b1c356f2c5c8fc
 video.unrulymedia.com, 429533720, reseller
 pubmatic.com, 156758, reseller, 5d62403b186f2ace
 onetag.com, 8c85507deac979a, direct
@@ -583,6 +649,8 @@ leanback.digital, 567876, direct, b1d30350acaf0176
 engagemedia.tv, 1055, reseller, cb58d2185b16309a
 axis-marketplace.com, 23, direct
 smartadserver.com, 4071, reseller
+improvedigital.com, 1616, reseller
+advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, reseller, 60d26397ec060f98
 contextweb.com, 560288, reseller, 89ff185a4c4e857c
 pubmatic.com, 159855, reseller, 5d62403b186f2ace
 smartadserver.com, 4618, reseller, 060d053dcf45cbf3
@@ -600,8 +668,8 @@ sharethrough.com, ibazay96, reseller, d53b998a7bd4ecd2
 adform.com, 2904, reseller, 9f5210a2f0999e32
 freewheel.tv, 1184159, reseller
 smartyads.com, 100034, reseller, fd2bde0ff2e62c5d
+adform.com, 2668, reseller
 admixer.co.kr, 1370, reseller
-inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, reseller, 83e75a7ae333ca9d
 video.unrulymedia.com, 2099898025, reseller
 pubmatic.com, 160993, reseller, 5d62403b186f2ace
 sonobi.com, cc3858f35e, reseller, d1a215d9eb5aee9e
@@ -612,6 +680,8 @@ grouprvn.com, l2i2ri5g21, direct
 brightcom.com, 29556, reseller
 rubiconproject.com, 16772, reseller, 0bfd66d529a55807
 smartadserver.com, 4074, reseller
+inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, reseller, 83e75a7ae333ca9d
+appnexus.com, 7664, reseller
 smartadserver.com, 4183, reseller
 pubmatic.com, 162081, reseller, 5d62403b186f2ace
 yieldmo.com, 3377199372461613093, reseller
