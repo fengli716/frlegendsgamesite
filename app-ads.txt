@@ -270,13 +270,15 @@ onetag.com, 7c3f893b7164340, reseller
 themediagrid.com, bih5u6, reseller, 35d5010d7789b49d
 markappmedia.site, 322972, reseller
 pubmatic.com, 156557, reseller
+pubmatic.com, 162484, reseller, 5d62403b186f2ace
 appnexus.com, 3703, reseller, f5ab79cb980f11d1
 similarrate.com, 7f6ffaa6bb0b408017b62254211691b530509, reseller
 hyperad.tech, 172, reseller
 rubiconproject.com, 13132, reseller, 0bfd66d529a55807
 freewheel.tv, 1500050, reseller
-pubmatic.com, 156813, reseller, 5d62403b186f2ace
 rhythmone.com, 188404962, reseller, a670c89d4a324e47
+pubmatic.com, 161174, reseller, 5d62403b186f2ace
+pubmatic.com, 156813, reseller, 5d62403b186f2ace
 mobilefuse.com, 240, reseller, 71e88b065d69c021
 advertising.com, 28605, reseller
 lijit.com, 400766, reseller, fafdf38b16bf6b2b
