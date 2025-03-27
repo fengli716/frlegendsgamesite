@@ -145,6 +145,7 @@ freewheel.tv, 1608328, reseller
 eliteappgrade.com, 494350, reseller
 rubiconproject.com, 15278, reseller, 0bfd66d529a55807
 google.com, pub-3565385483761681, reseller, f08c47fec0942fa0
+adform.com, 3268, reseller, 9f5210a2f0999e32
 smartyads.com, 300155, direct, fd2bde0ff2e62c5d
 sharethrough.com, kqnhfkhm, reseller, d53b998a7bd4ecd2
 pubmatic.com, 159035, reseller, 5d62403b186f2ace
@@ -271,17 +272,19 @@ pubmatic.com, 162484, reseller, 5d62403b186f2ace
 adform.com, 2795, reseller
 appnexus.com, 3703, reseller, f5ab79cb980f11d1
 similarrate.com, 7f6ffaa6bb0b408017b62254211691b530509, reseller
-hyperad.tech, 172, reseller
 rubiconproject.com, 13132, reseller, 0bfd66d529a55807
 freewheel.tv, 1608566, reseller
 smartadserver.com, 4926, reseller, 060d053dcf45cbf3
 rhythmone.com, 188404962, reseller, a670c89d4a324e47
+hyperad.tech, 172, reseller
+inmobi.com, a465db258ac44b2abb4e100fa019be3c, reseller, 83e75a7ae333ca9d
 freewheel.tv, 1500050, reseller
 smaato.com, 1100057444, reseller, 07bcf65f187117b4
 pubmatic.com, 161174, reseller, 5d62403b186f2ace
 pubmatic.com, 156813, reseller, 5d62403b186f2ace
 mobilefuse.com, 240, reseller, 71e88b065d69c021
 advertising.com, 28605, reseller
+improvedigital.com, 2541, reseller
 lijit.com, 400766, reseller, fafdf38b16bf6b2b
 iion.io, 10162, reseller
 appnexus.com, 11924, reseller, f5ab79cb980f11d1
@@ -302,9 +305,9 @@ smartadserver.com, 3817, reseller
 onetag.com, 765b4e6bb9c8438, reseller
 criteo.com, b-063681, reseller, 9fac4a4a87c2a44f
 adform.com, 2904, direct
-pubmatic.com, 156517, reseller, 5d62403b186f2ace
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33053, direct
 loopme.com, 5679, reseller, 6c8d5f95897a5a3b
+criteo.com, b-070724, direct, 9fac4a4a87c2a44f
 indexexchange.com, 189529, reseller, 50b1c356f2c5c8fc
 improvedigital.com, 2110, reseller
 contextweb.com, 562770, reseller, 89ff185a4c4e857c
@@ -314,6 +317,8 @@ contextweb.com, 558638, reseller, 89ff185a4c4e857c
 loopme.com, 11362, reseller, 6c8d5f95897a5a3b
 smartadserver.com, 4012, reseller
 opera.com, pub10014056052800, reseller, 55a0c5fd61378de3
+pubmatic.com, 156517, reseller, 5d62403b186f2ace
+criteo.com,b-059856,direct,9fac4a4a87c2a44f
 lijit.com, 420355, reseller, fafdf38b16bf6b2b
 smartadserver.com, 2491, reseller
 pubmatic.com, 163799, reseller, 5d62403b186f2ace
@@ -470,7 +475,7 @@ orangeclickmedia.com, hgu2t0onqs874x95, reseller
 boostappi.com, 10013, reseller
 smartclip.net, 15458, reseller
 appnexus.com, 2764, reseller
-intenziq.co, 200169, direct
+intenze.co , 200169 , direct
 thebrave.io, 1234585, reseller, c25b2154543746ac
 rubiconproject.com, 20744, reseller, 0bfd66d529a55807
 contextweb.com, 563238, reseller, 89ff185a4c4e857c
@@ -575,6 +580,7 @@ freewheel.tv, 1158049, reseller
 lijit.com, 249425, reseller
 adwmg.com, 100819, direct, c9688a22012618e7
 lijit.com, 489963, reseller, fafdf38b16bf6b2b
+themediagrid.com, lmf4e8, direct, 35d5010d7789b49d
 criteo.com, b-074375, reseller, 9fac4a4a87c2a44f
 video.unrulymedia.com, 2564526802, reseller, 6f752381ad5ec0e5
 smartadserver.com, 1999-ob, reseller, 060d053dcf45cbf3
