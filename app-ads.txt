@@ -437,7 +437,6 @@ frameplay.gg, 2018037567, reseller, f3e384c386126e9d
 smartyads.com, 980, reseller, fd2bde0ff2e62c5d
 openx.com, 537125356, reseller, 6a698e2ec38604c6
 video.unrulymedia.com,6111915185540403805,direct
-singularads.com, 554841, reseller
 improvedigital.com, 2345, direct
 video.unrulymedia.com, 374933895, reseller
 freewheel.tv, 1608121, reseller
@@ -449,6 +448,8 @@ freewheel.tv, 848065, reseller
 openx.com, 544096208, reseller, 6a698e2ec38604c6
 onetag.com, 7c3f893b7164340, reseller
 openx.com, 540861995, reseller, 6a698e2ec38604c6
+conversantmedia.com, 100657, reseller, 03113cd04947736d
+singularads.com, 554841, reseller
 smartadserver.com, 4343, reseller
 openx.com, 540298543, reseller, 6a698e2ec38604c6
 markappmedia.site, 322972, reseller
