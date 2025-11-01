@@ -301,6 +301,10 @@ inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
 inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 inmobi.com, b01aa06531c543d8a5fb9982f60afb00, RESELLER, 83e75a7ae333ca9d
 adverty.com, 957, DIRECT, 2b1a2f9cd997fcab
+e-planning.net,1f4b8010e3628983,reseller,c1ba615865ed87b2
+velonium.com,133413,reseller
+appnexus.com,17244,reseller,f5ab79cb980f11d1
+improvedigital.com,2589,reseller
 hax.ortb.net,656609,reseller
 pubnative.net, 1006576, reseller, d641df8625486a7b
 video.unrulymedia.com, 284522492, reseller
