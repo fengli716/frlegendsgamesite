@@ -2043,5 +2043,7 @@ rubiconproject.com, 25872, reseller, 0bfd66d529a55807
 sparcmedia.com, 70012, reseller
 risecodes.com, 663cba61d3708c000172de04, reseller
 adingo.jp, 32534, reseller
-
-display.io, 221372, reseller
+display.io, 221372, resellervideo.unrulymedia.com,645663965,reseller
+e-planning.net,1bf7b5d803f178c4,reseller,c1ba615865ed87b2
+admanmedia.com,2050,reseller
+smartyads.com,300045,reseller,fd2bde0ff2e62c5d
