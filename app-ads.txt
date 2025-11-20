@@ -2048,3 +2048,4 @@ e-planning.net,1bf7b5d803f178c4,reseller,c1ba615865ed87b2
 admanmedia.com,2050,reseller
 smartyads.com,300045,reseller,fd2bde0ff2e62c5d
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
