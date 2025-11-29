@@ -1132,6 +1132,12 @@ sparcmedia.com, 70012, reseller
 risecodes.com, 663cba61d3708c000172de04, reseller
 adingo.jp, 32534, reseller
 display.io, 221372, reseller
+conversantmedia.com,100141,reseller
+connectad.io,456,reseller,85ac85a30c93b3e5
+33across.com,0015a00002ouk4aaac,reseller,bbea06d9c4d2853c
+e-planning.net,83c06e81531537f4,reseller,c1ba615865ed87b2
+appnexus.com,10239,reseller,f5ab79cb980f11d1
+adagio.io,1587,reseller
 
 #Gadsme
 
