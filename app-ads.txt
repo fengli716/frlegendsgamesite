@@ -1138,6 +1138,7 @@ connectad.io,456,reseller,85ac85a30c93b3e5
 e-planning.net,83c06e81531537f4,reseller,c1ba615865ed87b2
 appnexus.com,10239,reseller,f5ab79cb980f11d1
 adagio.io,1587,reseller
+intenze.co,200169,direct
 
 #Gadsme
 
