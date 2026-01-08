@@ -311,10 +311,10 @@ prado.co, 14260, RESELLER
 #Adverty
 
 
+adverty.com, 957, DIRECT, 2b1a2f9cd997fcab
 conversantmedia.com,100269,reseller,03113cd04947736d
 pubnative.net, 1006576, reseller, d641df8625486a7b
 algorix.co, 54190, reseller, 5b394c12fea27a1d
-
 video.unrulymedia.com, 168269289, reseller
 rubiconproject.com, 26800, reseller, 0bfd66d529a55807
 rubiconproject.com,26144,reseller,0bfd66d529a55807
@@ -427,7 +427,6 @@ rubiconproject.com, 11006, reseller, 0bfd66d529a55807
 openx.com, 537140488, reseller, 6a698e2ec38604c6
 advlion.com, 3108, reseller
 biddigi.com, adg293, direct
-adverty.com, 957/1507, DIRECT, 2b1a2f9cd997fcab
 themediagrid.com, 5kmq9s, reseller, 35d5010d7789b49d
 adform.com, 3296, reseller, 9f5210a2f0999e32
 thunder-monetize.com, 3905806597, reseller
@@ -758,7 +757,6 @@ iqzone.com, iq137, reseller
 axonix.com, 59150, reseller, bc385f2b4a87b721
 smaato.com, 1100053415, reseller, 07bcf65f187117b4
 google.com, pub-1682595508078257, reseller, f08c47fec0942fa0
-adverty.com, 957/2212, DIRECT, 2b1a2f9cd997fcab
 smaato.com, 1100052458, direct, 07bcf65f187117b4
 rubiconproject.com, 20736, reseller, 0bfd66d529a55807
 motorik.io, 100463, reseller
@@ -890,7 +888,6 @@ openx.com, 539625136, reseller
 my-cast.tv, 987156, reseller, 8c33fe1bd714ffd7
 outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,reseller
 rubiconproject.com, 10653, direct, 0bfd66d529a55807
-adverty.com, 957/1184, DIRECT, 2b1a2f9cd997fcab
 pubmatic.com, 163761, reseller, 5d62403b186f2ace
 appnexus.com, 14416, reseller
 conversantmedia.com, 100246, reseller, 03113cd04947736d
@@ -1050,7 +1047,6 @@ lijit.com, 489963, reseller, fafdf38b16bf6b2b
 adyoulike.com, 13f72890d6eadc4755958004c95e9ed6, reseller
 themediagrid.com, lmf4e8, direct, 35d5010d7789b49d
 inmobi.com, fe4db13744124582a6a2b18964560ce7, reseller, 83e75a7ae333ca9d
-adverty.com, 957/1581, DIRECT, 2b1a2f9cd997fcab
 video.unrulymedia.com, 2564526802, reseller, 6f752381ad5ec0e5
 pubmatic.com, 162270, reseller, 5d62403b186f2ace
 smartadserver.com, 1999-ob, reseller, 060d053dcf45cbf3
@@ -1072,7 +1068,6 @@ conversantmedia.com, 100141, reseller
 yieldmo.com, 3091564759074414941, reseller
 improvedigital.com, 1532, reseller
 openx.com, 540838151, reseller, 6a698e2ec38604c6
-adverty.com, 957/2211, DIRECT, 2b1a2f9cd997fcab
 visiblemeasures.com, 1009, reseller
 sharethrough.com, oaw69fon, reseller, d53b998a7bd4ecd2
 eskimi.com, 22950519347, reseller
