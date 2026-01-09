@@ -2104,3 +2104,5 @@ zmaticoo.com, 5135004, RESELLER
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 openx.com, 564232808, DIRECT, 6a698e2ec38604c6
+pangleglobal.com, 5034796, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
