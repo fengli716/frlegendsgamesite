@@ -1158,7 +1158,6 @@ pubnative.net, 1006951, reseller, d641df8625486a7b
 gadsme.com, cmfwexu7n07ahqx0iqxljcnlv, DIRECT, 6e0ed2d8104a4234
 33across.com, 001Pg000006oOlnIAE, RESELLER, bbea06d9c4d2853c
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
-33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
 adagio.io, 1438, RESELLER
 adagio.io, 1575, RESELLER
@@ -1252,6 +1251,7 @@ advlion.com, 3570, RESELLER
 adwmg.com, 100789, DIRECT, c9688a22012618e7
 adyoulike.com, 3bd59827ca27896e43d7629454587f70, DIRECT
 adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, RESELLER
+adyoulike.com, 283e6e26614a07d896da0933c3719127, RESELLER
 adyoulike.com, 78afbc34fac571736717317117dfa247, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER
@@ -1289,7 +1289,7 @@ appnexus.com, 13099, RESELLER
 appnexus.com, 15941, RESELLER
 appnexus.com, 16929, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17075, RESELLER, f5ab79cb980f11d1
-appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
+appnexus.com, 14808, RESELLER
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12742, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
@@ -1367,7 +1367,6 @@ conversantmedia.com, 100246, RESELLER, 03113cd04947736d
 conversantmedia.com, 39823, RESELLER, 03113cd04947736d
 conversantmedia.com, 41784, RESELLER, 03113cd04947736d
 conversantmedia.com, 100396, RESELLER
-conversantmedia.com, 100141, RESELLER
 conversantmedia.com, 100242, RESELLER, 03113cd04947736d
 conversantmedia.com, 100264, RESELLER, 03113cd04947736d
 conversantmedia.com, 100792, RESELLER, 03113cd04947736d
@@ -1431,6 +1430,7 @@ google.com, pub-3977122154505186, RESELLER, f08c47fec0942fa0
 gothamads.com, 987, RESELLER, d9c86e5dec870222
 grouprvn.com, n1o21Ga0G23, RESELLER
 growintech.co, 2723d092b63885e0d7c260cc007e8b9d2a93j, RESELLER, 9d8dfe5c6b00fb37
+hax.ortb.net, 655942, DIRECT
 hax.ortb.net, 655942, RESELLER
 iion.io, 10258, RESELLER, 013a29748465dc57
 iion.io, 10209, RESELLER, 013a29748465dc57
@@ -1637,7 +1637,6 @@ pubmatic.com, 166165, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166166, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162520, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161648, RESELLER, 5d62403b186f2ace
-pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160671, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163531, RESELLER, 5d62403b186f2ace
@@ -1740,7 +1739,7 @@ rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15278, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27320, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27322, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20736, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
@@ -1812,6 +1811,7 @@ smartadserver.com, 4865, RESELLER
 smartadserver.com, 4881, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 3554, RESELLER
 smartadserver.com, 5070, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 5530, RESELLER
 smartadserver.com, 3817, RESELLER
 smartadserver.com, 3837, RESELLER
 smartadserver.com, 4016, RESELLER
