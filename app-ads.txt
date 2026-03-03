@@ -1151,6 +1151,57 @@ adingo.jp, 32534, reseller
 display.io, 221372, reseller
 rubiconproject.com, 26608, reseller, 0bfd66d529a55807
 pubnative.net, 1006951, reseller, d641df8625486a7b
+zetaglobal.net,808,reseller
+adform.com,3137,reseller
+adyoulike.com,ff5fc9a322b4a4fe5a762ca97f9673e3,reseller
+aps.amazon.com,d8a8d84a-4dec-4374-bdeb-03d06618002e,reseller
+xandr.com,15984,reseller
+sonobi.com,5d7703694f,reseller,d1a215d9eb5aee9e
+markappmedia.site,533994,reseller
+video.unrulymedia.com,512231327,reseller
+openx.com,537139983,reseller,6a698e2ec38604c6
+anyclip.com,n003,reseller
+pubmatic.com,161332,reseller,5d62403b186f2ace
+lijit.com,567973,reseller,fafdf38b16bf6b2b#sovrn
+bidfuse.com,bfg9232025524,direct,92bf3d4bb7d08ded
+e-planning.net,4c99ecfb32b6217f,reseller,c1ba615865ed87b2
+executemedia.se,014,reseller
+pubsfusion.com,100301,reseller
+conversantmedia.com,100969,reseller,03113cd04947736d
+onlinemediasolutions.com,432727,reseller,b3868b187e4b6402
+openx.com,557083110,reseller,6a698e2ec38604c6
+adagio.io,1482,reseller
+anyclip.com,n001,reseller
+eskimi.com,2020000812,reseller
+video.unrulymedia.com,873174368,reseller
+media.net,8cu76542s,reseller
+pubmatic.com,156631,reseller,5d62403b186f2ace
+openx.com,540917439,reseller,6a698e2ec38604c6
+adagio.io,1548,reseller
+brightcom.com,432727,reseller,b3868b187e4b6402
+adagio.io,1531,reseller
+video.unrulymedia.com,565904054,reseller,98c21ef9a666c68b
+opera.com,pub6871903319744,reseller,55a0c5fd61378de3
+lijit.com,533787,reseller,fafdf38b16bf6b2b
+pubmatic.com,162147,reseller,5d62403b186f2ace
+appnexus.com,11716,reseller,f5ab79cb980f11d1
+pubmatic.com,163507,reseller,5d62403b186f2ace
+smartadserver.com,5044,reseller,060d053dcf45cbf3
+league-m.de,110,reseller
+video.unrulymedia.com,586616193,reseller
+ogury.com,ede8d6ba-5a3f-4dfa-85aa-8cfb3c42f970,reseller
+33across.com,001pg00000ehkl7iao,reseller,bbea06d9c4d2853c
+thunder-monetize.com,1947298216,reseller
+hax.ortb.net,657462,direct
+adyoulike.com,88eff71b8bd6cf0622119bbb3bced25a,reseller
+orangeclickmedia.com,ach5lxtq1pmgjoz4,reseller,cd730d2f56b472c4
+onomagic.com,4327271,reseller
+sharethrough.com,4214,reseller,d53b998a7bd4ecd2
+pubmatic.com,156610,reseller,5d62403b186f2ace
+getmediamx.com,12432727,reseller
+rubiconproject.com,24364,reseller,0bfd66d529a55807
+aniview.com,6852a873667265249f0cdbc9,reseller,78b21b97965ec3f8
+nextmillennium.io,16908,reseller,65bd090fa4a1e3d6
 
 
 #Gadsme
