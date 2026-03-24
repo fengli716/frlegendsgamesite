@@ -1202,6 +1202,36 @@ getmediamx.com,12432727,reseller
 rubiconproject.com,24364,reseller,0bfd66d529a55807
 aniview.com,6852a873667265249f0cdbc9,reseller,78b21b97965ec3f8
 nextmillennium.io,16908,reseller,65bd090fa4a1e3d6
+conversantmedia.com,101170,reseller,03113cd04947736d
+rubiconproject.com,22544,reseller,0bfd66d529a55807
+sharethrough.com,4423,reseller,d53b998a7bd4ecd2
+pubsmart.ai,pbsmt798,reseller
+flashb.id,3ddae1b1-b084-5284-a71e-7fe76fd3c43d,reseller
+pubmatic.com,160194,reseller,5d62403b186f2ace
+pubmatic.com,161601,reseller,5d62403b186f2ace
+sharethrough.com,3blzyyks,reseller,d53b998a7bd4ecd2
+adform.com,3354,reseller,9f5210a2f0999e32
+appnexus.com,12223,reseller,f5ab79cb980f11d1
+thejungletechnology.com,3199652,reseller
+loopme.com,11690,reseller,6c8d5f95897a5a3b
+media.net,8cubdwv4w,reseller
+zetaglobal.net,562,reseller
+rubiconproject.com,20922,reseller,0bfd66d529a55807
+smartadserver.com,4039,reseller
+tubia.com,40124,reseller
+video.unrulymedia.com,7940164981947873119,reseller
+pubmatic.com,165750,reseller,5d62403b186f2ace
+video.unrulymedia.com,685555114,reseller
+sharethrough.com,3554,reseller,d53b998a7bd4ecd2
+loopme.com,16628,reseller,6c8d5f95897a5a3b
+improvedigital.com,1361,reseller
+connectad.io,565,reseller,85ac85a30c93b3e5
+lijit.com,484691,reseller,fafdf38b16bf6b2b
+adagio.io,1617,reseller
+triplelift.com,13423,reseller,6c33edb13117fd86
+gitberry.com,395100012,reseller
+volantisdigital.com,763553,reseller
+criteo.com,b-070302,reseller,9fac4a4a87c2a44f
 
 
 #Gadsme
