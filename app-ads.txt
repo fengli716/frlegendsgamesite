@@ -874,7 +874,10 @@ inmobi.com, 95ef2003a2c742db81a45303d6e4cf8b, RESELLER, 83e75a7ae333ca9d
 
 #Gadsme
 
+inventorypartnerdomain=gadsme.com
+
 gadsme.com, cmfwexu7n07ahqx0iqxljcnlv, DIRECT, 6e0ed2d8104a4234
+
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00003DKg9ZAAT, RESELLER, bbea06d9c4d2853c
 33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c
@@ -1230,7 +1233,6 @@ lkqd.net, 626, RESELLER, 59c49fa9598a0117
 loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 12858, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
-loopme.com, 14171, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11499, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11528, RESELLER, 6c805f95897a5a30
 loopme.com, 13900, RESELLER, 6c8d5f95897a5a3b
@@ -1252,7 +1254,6 @@ mars.media, 1084828, RESELLER, 8624339f102fb076
 media.net, 8CU95VZK4, RESELLER
 media.net, 8CUS3M0Z2, DIRECT
 media.net, 8CU46MUHQ, DIRECT
-media.net, 8CU56GN82, RESELLER
 media.net, 8CUQC3000, RESELLER
 media.net, 8CU42SA73, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
@@ -1285,7 +1286,6 @@ nextmillennium.io, 16760, RESELLER, 65bd090fa4a1e3d6
 nextmillennium.io, 17219, RESELLER, 65bd090fa4a1e3d6
 nexverse.ai, 24337, RESELLER
 nexverse.ai, 80132, DIRECT
-ogury.com, 9da32733-426d-4c5f-b171-5f13986253bc, RESELLER
 ogury.com, e91052177a44df900ef9977b4b8314fe, RESELLER
 ogury.com, 5bbe7af9-d51f-499e-a804-db54798d96f4, DIRECT
 oko.uk, 9a78f9d0-9cb7-4e5e-b869-eb0d9c344f13, DIRECT, b3511ffcafb23a32
@@ -1346,7 +1346,6 @@ playdigo.com, 1950, RESELLER
 playdigo.com, 1901, RESELLER
 pokkt.com, 5886, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
-programmaticx.ai, 100465, RESELLER, b42d42eb28400efa
 programmaticx.ai, 1004783, RESELLER, b42d42eb28400efa
 pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156424, RESELLER, 5d62403b186f2ace
@@ -1361,7 +1360,6 @@ pubmatic.com, 165307, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160552, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159234, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164187, RESELLER, 5d62403b186f2ace
-pubmatic.com, 166389, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
@@ -1382,6 +1380,7 @@ pubmatic.com, 165864, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160671, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163531, RESELLER, 5d62403b186f2ace
+pubmatic.com, 168040, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164988, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161144, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
@@ -1659,8 +1658,6 @@ themediagrid.com, hgn8tk, RESELLER, 35d5010d7789b49d
 themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, A8X5S7, DIRECT, 35d5010d7789b49d
 themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
-tredio.io, 357a6fdf7642bf815a88822c447d9dc437112, RESELLER
-tredio.io, 357a6fdf7642bf815a88822c447d9dc437119, RESELLER
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
 triplelift.com, 8446, RESELLER, 6c33edb13117fd86
 triplelift.com, 13042, RESELLER, 6c33edb13117fd86
@@ -1689,7 +1686,6 @@ tritondigital.com, 44733, RESELLER, 19b4454d0b87b58b
 tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
 tritondigital.com, 162493, RESELLER, 19b4454d0b87b58b
 trustedstack.com, TSEELYFMQ, DIRECT
-trustedstack.com, TSCIHPAF6, RESELLER
 trustedstack.com, TS4XM27PK, RESELLER
 trustedstack.com, TSLAU41Q2, RESELLER
 trustedstack.com, TSRD84SGD, RESELLER
